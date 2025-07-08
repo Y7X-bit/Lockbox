@@ -1,0 +1,6 @@
+customtkinter
+pyperclip
+pygame
+cryptography
+qrcode
+Pillow
