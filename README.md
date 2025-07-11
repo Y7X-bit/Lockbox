@@ -22,16 +22,6 @@
 
 ---
 
-## 🖼️ Preview
-
-> Minimal. Clean. Bold.
-
-<p align="center">
-  <img src="assets/1.png" alt="LockBox GUI Screenshot" width="750">
-</p>
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Requirements
