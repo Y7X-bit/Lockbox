@@ -1,33 +1,40 @@
-# 🔐 Y7X Password Forge PRO
+<h1 align="center">🔐 LockBox</h1>
 
-Welcome to **Y7X Password Forge PRO** — a premium password generator with an AMOLED theme, glowing UI, real-time entropy tracking, export features, and custom GPT-style tips for password strength. Built for creators who want **security and aesthetic** in one tool.
+<p align="center">
+  <img src="assets/1.png" alt="LockBox UI Preview" width="650"/><br><br>
+  <b>💣 Military-grade password generator with red-outline AMOLED styling</b><br>
+  <sub>Built with ❤️ using <code>customtkinter</code> • By Y7X 💗</sub>
+</p>
 
 ---
 
-## ✨ Features
+## 🧠 Features
 
-- 🖤 **AMOLED UI** with glowing red accents
-- ⚡️ **One-click password generation**
-- 📏 Adjustable length slider (8–64 chars)
-- 🔤 Lowercase, Uppercase, Numbers, Symbols toggles
-- 🛡️ **Live strength meter** with smart feedback
-- 📊 Entropy + charset stats
-- 📋 Copy to clipboard
-- 📜 Export password history
-- 📱 QR code generator
-- 💾 Auto-save support
-- 👾 Hidden easter egg animation (try Ctrl+Alt+Click 😉)
-- 🎵 Optional sound feedback
+- 🔏 **Ultra-secure password generation** with charset selection
+- 🧮 **Real-time entropy calculator**
+- 📈 **Strength analysis** with GPT-style improvement tips
+- 📋 **Clipboard support** with sound effects
+- 📦 **Export password history** (📁 .txt file)
+- 📱 **QR code output** for quick sharing
+- 🌑 **True AMOLED UI** with red outlines + glowing effects
+- 🎵 **Sound feedback** (click.wav)
+- 🛡️ **Military aesthetics** for ultimate flex
 
 ---
 
 ## 🖼️ Preview
 
-> Coming soon: Screenshots of the glowing AMOLED UI
+> Minimal. Clean. Bold.
+
+<p align="center">
+  <img src="assets/1.png" alt="LockBox GUI Screenshot" width="750">
+</p>
 
 ---
 
-## 📦 Requirements
+## 🚀 Getting Started
+
+### 🔧 Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install customtkinter pyperclip cryptography qrcode pillow pygame
