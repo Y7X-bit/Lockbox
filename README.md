@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/1.png" alt="LockBox UI Preview" width="650"/><br><br>
   <b>💣 Military-grade password generator with red-outline AMOLED styling</b><br>
-  <sub>Built with ❤️ using <code>customtkinter</code> • By Y7X 💗</sub>
+  <sub>Built with 💗 using <code>customtkinter</code> • By Y7X 💗</sub>
 </p>
 
 ---
