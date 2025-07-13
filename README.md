@@ -6,7 +6,7 @@
 💣 Military-grade password generator with red-outline AMOLED styling
 Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
-<img src="assets/1.png" alt="LockBox UI Preview" width="650"
+<img src="assets/1.png" width="650"/>
 
 </div>
 
