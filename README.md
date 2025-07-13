@@ -1,14 +1,19 @@
-<h1 align="center">🔐 LockBox</h1>
+<div align="center">
 
-<p align="center">
-  <img src="assets/1.png" alt="LockBox UI Preview" width="650"/><br><br>
-  <b>💣 Military-grade password generator with red-outline AMOLED styling</b><br>
-  <sub>Built with 💗 using <code>customtkinter</code> • By Y7X 💗</sub>
-</p>
+# 🔐 LockBox
+**💎 LockBox — Where Security Meets Style.**
+
+💣 Military-grade password generator with red-outline AMOLED styling
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
+
+<img src="assets/1.png" alt="LockBox UI Preview" width="650"
+
+</div>
 
 ---
 
-## 🧠 Features
+## 🌟 Features at a Glance
+
 
 - 🔏 **Ultra-secure password generation** with charset selection
 - 🧮 **Real-time entropy calculator**
@@ -22,9 +27,12 @@
 
 ---
 
-## 🚀 Getting Started
+## 🖥️ Installation
 
-### 🔧 Requirements
+> Python 3.9 or later required
 
 ```bash
-pip install customtkinter pyperclip cryptography qrcode pillow pygame
+git clone https://github.com/Y7X-bit/LockBox.git
+cd LockBox
+pip install -r requirements.txt
+python LockBox.py
